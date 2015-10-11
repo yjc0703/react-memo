@@ -1,0 +1,14 @@
+.memo-container { border: 2px solid #ccc; padding: 10px; }
+
+.segrip {
+  width: 7px;
+  height: 7px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+}
+
+.titleMsg {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
